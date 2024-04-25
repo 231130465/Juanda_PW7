@@ -1,0 +1,45 @@
+header img{
+      width: 200px;
+}
+
+main article.dua section img,video{
+      width: 300px;
+} 
+
+main article.dua section div{
+      display: flex;
+      justify-content: center;
+}
+main article.dua section div.1{
+      display: flex;
+      justify-content: center;    
+}
+
+
+
+main article.dua{
+      background-color: blue;
+      color: white;
+      font-size: 20;
+      font-family: 'Times New Roman', Times, serif;
+      font-weight: bold;
+      border: 70px;
+      padding: 0 auto;
+      margin: 0 auto;
+}
+
+article section.dua {
+      background-color: green;
+      color: aqua;      
+      font-size: 10;
+      font-family: 'Courier New', Courier, monospace;
+      font-weight: bold;
+      border: 55px;
+      padding: 10px 10px 10px 10px;
+      margin: 10px 10px 10px 10px;
+}
+
+header img {
+      width: 400px;
+      height: 300px;
+}
